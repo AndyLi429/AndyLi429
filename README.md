@@ -9,5 +9,5 @@ AI Infra Engineer based in China.
 - Ascend NPU performance and optimization
 
 ## Connect
-
+Feel free to contact me
 - [LinkedIn](https://www.linkedin.com/in/peihan-li-76b995a0/)

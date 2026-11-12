@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sglang-chan.png" width="100%" alt="An unofficial SGLang-chan rescuing an NPU chip from a laboratory full of escaped tokens" />
+  <img src="https://raw.githubusercontent.com/AndyLi429/AndyLi429/main/assets/sglang-chan.png" width="100%" alt="An unofficial SGLang-chan rescuing an NPU chip from a laboratory full of escaped tokens" />
 </p>
 
 <h1 align="center">AndyLi429</h1>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/token-lab.svg" width="100%" alt="Animated token pipeline: prefill and decode. Mission: fewer stalls, more tokens, no surprise regressions." />
+  <img src="https://raw.githubusercontent.com/AndyLi429/AndyLi429/main/assets/token-lab.svg" width="100%" alt="Animated token pipeline: prefill and decode. Mission: fewer stalls, more tokens, no surprise regressions." />
 </p>
 
 ## 🧪 Things I poke until they go faster

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="150" viewBox="0 0 960 150" role="img" aria-labelledby="title desc">
+  <title id="title">The token rescue lab</title>
+  <desc id="desc">Animated tokens move from prefill to decode, with a blinking console cursor.</desc>
+  <rect width="960" height="150" rx="16" fill="#0b1020"/>
+  <rect x="1" y="1" width="958" height="148" rx="15" fill="none" stroke="#26364b"/>
+  <g font-family="monospace" font-size="11" fill="#8494af">
+    <text x="25" y="26" fill="#60edc5">ANDY'S TOKEN RESCUE LAB</text>
+    <text x="935" y="26" text-anchor="end">ANIMATED SCHEMATIC / NOT LIVE TELEMETRY</text>
+  </g>
+  <path d="M255 70H700" stroke="#26364b" stroke-width="2" stroke-dasharray="5 7"/>
+  <g fill="#60edc5">
+    <rect x="255" y="64" width="12" height="12" rx="3"><animate attributeName="x" values="255;700" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.92;1" dur="5s" repeatCount="indefinite"/></rect>
+    <rect x="255" y="64" width="12" height="12" rx="3"><animate attributeName="x" values="255;700" dur="5s" begin="-1.65s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.92;1" dur="5s" begin="-1.65s" repeatCount="indefinite"/></rect>
+    <rect x="255" y="64" width="12" height="12" rx="3" fill="#ffac79"><animate attributeName="x" values="255;700" dur="5s" begin="-3.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.92;1" dur="5s" begin="-3.3s" repeatCount="indefinite"/></rect>
+  </g>
+  <g font-family="monospace" font-size="13" text-anchor="middle">
+    <rect x="190" y="49" width="130" height="40" rx="8" fill="#142738" stroke="#60edc5"/><text x="255" y="74" fill="#60edc5">PREFILL</text>
+    <rect x="630" y="49" width="140" height="40" rx="8" fill="#142738" stroke="#60edc5"/><text x="700" y="74" fill="#60edc5">DECODE</text>
+  </g>
+  <g font-family="monospace" font-size="13" fill="#d6e4ee">
+    <text x="25" y="126">$ <tspan fill="#60edc5">mission:</tspan> fewer stalls, more tokens, no surprise regressions.</text>
+    <rect x="611" y="114" width="8" height="15" fill="#60edc5"><animate attributeName="opacity" values="1;0;1" calcMode="discrete" dur="1.2s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

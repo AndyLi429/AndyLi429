@@ -11,3 +11,4 @@ AI Infra Engineer based in China.
 ## Connect
 Feel free to contact me
 - [LinkedIn](https://www.linkedin.com/in/peihan-li-76b995a0/)
+- Email: [lipeihan1994@gmail.com](mailto:lipeihan1994@gmail.com)
